@@ -1,0 +1,16 @@
+{
+  "name": "input-data-mintbot",
+  "version": "1.0.0",
+  "description": "input data 抢公售机器人",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@alch/alchemy-web3": "^1.4.1",
+    "node-schedule": "^2.1.0"
+  }
+}
